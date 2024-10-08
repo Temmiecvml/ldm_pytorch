@@ -1,0 +1,7 @@
+2024-10-08 10:37:21,316 - ERROR - Error loading config: 'NoneType' object has no attribute 'target'
+2024-10-08 10:54:31,754 - ERROR - Error loading config: 'NoneType' object has no attribute 'target'
+2024-10-08 10:54:59,032 - ERROR - Error loading config: 'NoneType' object has no attribute 'target'
+2024-10-08 10:55:32,759 - ERROR - Error loading config: 'NoneType' object has no attribute 'target'
+2024-10-08 10:55:37,109 - ERROR - Error loading config: 'NoneType' object has no attribute 'target'
+2024-10-08 10:55:46,023 - ERROR - Error loading config: 'NoneType' object has no attribute 'target'
+2024-10-08 11:00:33,349 - ERROR - Error loading config: 'Encoder' object has no attribute 'ch'
