@@ -3,3 +3,4 @@ data/
 references/
 .vscode
 ldm_logs/
+__pycache__/
